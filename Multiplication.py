@@ -1,4 +1,4 @@
 a=int(input())
 b=int(input())
-c=a*b
-print("%d"%c)
+s=a*b
+print(s)
